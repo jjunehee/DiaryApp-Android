@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/diaryList"
+        android:enabled="true"
+        android:icon="@drawable/book"
+        android:title="Diary"/>
+    <item
+        android:id="@+id/myEmoji"
+        android:enabled="true"
+        android:icon="@drawable/calendar"
+        android:title="Emoji"/>
+    <item
+        android:id="@+id/myMood"
+        android:enabled="true"
+        android:icon="@drawable/piechart"
+        android:title="Mood"/>
+    <item
+        android:id="@+id/myPage"
+        android:enabled="true"
+        android:icon="@drawable/options"
+        android:title="myPage"/>
+
+</menu>
